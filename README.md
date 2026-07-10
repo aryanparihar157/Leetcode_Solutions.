@@ -11,8 +11,13 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aryanparihar157/Github_Solutions./tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/aryanparihar157/Github_Solutions./tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aryanparihar157/Github_Solutions./tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aryanparihar157/Github_Solutions./tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
