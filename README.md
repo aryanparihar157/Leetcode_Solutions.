@@ -6,16 +6,19 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/aryanparihar157/Github_Solutions./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanparihar157/Github_Solutions./tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/aryanparihar157/Github_Solutions./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanparihar157/Github_Solutions./tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aryanparihar157/Github_Solutions./tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanparihar157/Github_Solutions./tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/aryanparihar157/Github_Solutions./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanparihar157/Github_Solutions./tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanparihar157/Github_Solutions./tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
