@@ -33,4 +33,12 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aryanparihar157/Github_Solutions./tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aryanparihar157/Github_Solutions./tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aryanparihar157/Github_Solutions./tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
