@@ -25,4 +25,12 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aryanparihar157/Github_Solutions./tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aryanparihar157/Github_Solutions./tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aryanparihar157/Github_Solutions./tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
