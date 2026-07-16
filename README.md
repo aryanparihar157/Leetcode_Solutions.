@@ -34,6 +34,7 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aryanparihar157/Github_Solutions./tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/aryanparihar157/Github_Solutions./tree/master/0933-number-of-recent-calls) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanparihar157/Github_Solutions./tree/master/0150-evaluate-reverse-polish-notation) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aryanparihar157/Github_Solutions./tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aryanparihar157/Github_Solutions./tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
