@@ -48,6 +48,7 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aryanparihar157/Github_Solutions./tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanparihar157/Github_Solutions./tree/master/0150-evaluate-reverse-polish-notation) |
 ## Queue
 |  |
@@ -61,4 +62,17 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanparihar157/Github_Solutions./tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/aryanparihar157/Github_Solutions./tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aryanparihar157/Github_Solutions./tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aryanparihar157/Github_Solutions./tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aryanparihar157/Github_Solutions./tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
