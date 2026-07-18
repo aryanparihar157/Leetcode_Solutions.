@@ -6,6 +6,7 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aryanparihar157/Github_Solutions./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/aryanparihar157/Github_Solutions./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanparihar157/Github_Solutions./tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
@@ -61,11 +62,13 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aryanparihar157/Github_Solutions./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aryanparihar157/Github_Solutions./tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/aryanparihar157/Github_Solutions./tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aryanparihar157/Github_Solutions./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/aryanparihar157/Github_Solutions./tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
