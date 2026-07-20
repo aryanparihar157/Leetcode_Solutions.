@@ -19,8 +19,12 @@ public:
             ans.push_back(root->val);
             vector<int> left = preorderTraversal(root->left);
             vector<int> right = preorderTraversal(root->right);
-            ans.insert(ans.end(), left.begin(), left.end());
-            ans.insert(ans.end(), right.begin(), right.end());
+            for (int val : left) {
+                ans.push_back(val);
+            }
+            for (int val : right) {
+                ans.push_back(val);
+            }
             return ans;
         }
     }
