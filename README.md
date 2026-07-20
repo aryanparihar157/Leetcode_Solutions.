@@ -30,6 +30,7 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanparihar157/Github_Solutions./tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryanparihar157/Github_Solutions./tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryanparihar157/Github_Solutions./tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanparihar157/Github_Solutions./tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aryanparihar157/Github_Solutions./tree/master/0155-min-stack) |
@@ -75,6 +76,7 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aryanparihar157/Github_Solutions./tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryanparihar157/Github_Solutions./tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryanparihar157/Github_Solutions./tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
@@ -83,9 +85,11 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryanparihar157/Github_Solutions./tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryanparihar157/Github_Solutions./tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryanparihar157/Github_Solutions./tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryanparihar157/Github_Solutions./tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
