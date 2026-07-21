@@ -37,6 +37,7 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanparihar157/Github_Solutions./tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aryanparihar157/Github_Solutions./tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/aryanparihar157/Github_Solutions./tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/aryanparihar157/Github_Solutions./tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 | [0020-valid-parentheses](https://github.com/aryanparihar157/Github_Solutions./tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/aryanparihar157/Github_Solutions./tree/master/0079-word-search) |
 | [0844-backspace-string-compare](https://github.com/aryanparihar157/Github_Solutions./tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/aryanparihar157/Github_Solutions./tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
