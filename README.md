@@ -21,6 +21,7 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aryanparihar157/Github_Solutions./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanparihar157/Github_Solutions./tree/master/0142-linked-list-cycle-ii) |
+| [0844-backspace-string-compare](https://github.com/aryanparihar157/Github_Solutions./tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanparihar157/Github_Solutions./tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -35,6 +36,7 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanparihar157/Github_Solutions./tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanparihar157/Github_Solutions./tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aryanparihar157/Github_Solutions./tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/aryanparihar157/Github_Solutions./tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryanparihar157/Github_Solutions./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aryanparihar157/Github_Solutions./tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/aryanparihar157/Github_Solutions./tree/master/0079-word-search) |
+| [0844-backspace-string-compare](https://github.com/aryanparihar157/Github_Solutions./tree/master/0844-backspace-string-compare) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,4 +113,8 @@ A curated collection of solutions to DSA problems and coding challenges, solved 
 | [0100-same-tree](https://github.com/aryanparihar157/Github_Solutions./tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aryanparihar157/Github_Solutions./tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanparihar157/Github_Solutions./tree/master/0102-binary-tree-level-order-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/aryanparihar157/Github_Solutions./tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
